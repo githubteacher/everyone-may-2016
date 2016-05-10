@@ -12,3 +12,13 @@ Go to Botanical Garden/
 Central Park/
 King Matthias Corvin Statue/
 
+## Secret spots from locals
+-The tunnel beneath my old school
+
+Line 1
+
+Another line
+Line 2
+
+
+das
