@@ -9,3 +9,5 @@
 - Go to Ghale (Castle) Chaleshtor
 
 ### Secret spots from locals
+- Lalehaye Vajhgun weald
+- Cheshmeh Dimeh
