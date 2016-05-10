@@ -4,6 +4,7 @@
 Chuy's 
 
 Guerros
+- La Zona Rosa
 
 ### Touristy places to do
 Barton Springs
