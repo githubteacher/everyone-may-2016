@@ -5,6 +5,7 @@
 - El Chato Taco Truck
 - Shin Sen Gumi Hakata Ramen
 - Joe's Falafel
+- Lemonade
 
 ### Touristy things to do
 - Santa Monica Pier
@@ -15,3 +16,4 @@
 ### Secret spots from locals
 - The Grove & Farmers Market
 - Other beaches besides Santa Monica:  Manhattan Beach, Hermosa Beach
+- Surfing in Malibu

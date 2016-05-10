@@ -15,5 +15,16 @@ LaBrea Tar Pitts (http://www.tarpits.org/la-brea-tar-pits)
 ##Places to Eat
 
 Pink's Hot Dogs
+http://www.pinkshollywood.com/
+
+Charcoal Venice
+https://www.charcoalvenice.com/
 
 
+##Places to Shop
+
+Beverly Center
+http://www.beverlycenter.com/
+
+Glendale Galleria
+https://www.glendalegalleria.com/en.html
