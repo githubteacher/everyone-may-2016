@@ -2,6 +2,7 @@
 
 ###Things to do
 Ballon Fiesta in Aug
+Suspension bridge
 
 ###Places to eat
 Nicholas market
