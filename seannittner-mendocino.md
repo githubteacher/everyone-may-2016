@@ -2,6 +2,7 @@
 
 ### Places to eat
 - Cafe Beaujolais
+- 955 Ukiah
 
 ### Toursity things to do
 - Whale Watching
