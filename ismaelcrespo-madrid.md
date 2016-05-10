@@ -3,6 +3,7 @@
 ### Places to eat
 - Churrería
 - Restaurante Pizzería
+- Pizza Pepis
 
 ### Tourism
 - Parque Warner
