@@ -11,3 +11,4 @@
 
 ### Sport events
 - Local competitions among high school teams (Basketball, baseball, tennis)
+- Swimming
