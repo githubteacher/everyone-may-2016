@@ -10,3 +10,4 @@
 
 ### Local Places to Go
 - Allen Pond Park - get your walk on
+- Bowie Baysox
