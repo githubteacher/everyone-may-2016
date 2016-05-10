@@ -14,3 +14,4 @@
 - Local competitions among high school teams (Basketball, baseball, tennis)
 - Swimming
 - COSI
+- Polaris
