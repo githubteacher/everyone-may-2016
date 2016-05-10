@@ -1,4 +1,5 @@
 # Angeles City, PH
+[Philippines Travel Guide](http://www.worldtravelguide.net/philippines)
 
 ### Places To Eat
 - Mila's
