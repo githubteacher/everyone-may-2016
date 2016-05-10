@@ -5,6 +5,7 @@
 - El Chato Taco Truck
 - Shin Sen Gumi Hakata Ramen
 - Joe's Falafel
+- Lemonade
 
 ### Touristy things to do
 - Santa Monica Pier
