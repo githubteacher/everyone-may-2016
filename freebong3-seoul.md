@@ -3,7 +3,7 @@
 ### Places to Eat
 - so many places at hongdae
 - Gangnam! ...style? lol
-- 
+
 ### Touristy things to do
 - Bukchon Hanok Village
 - Deoksugung
