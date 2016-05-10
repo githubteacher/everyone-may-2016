@@ -2,7 +2,7 @@
 
 ### Places to Eat
 - MacKenzie River Pizza
-- Tokyo
+- Tokyo (best Sushi and Rolls in town)
 
 ### Things to Do
 - Falls Park
