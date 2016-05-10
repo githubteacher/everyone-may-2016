@@ -1,5 +1,5 @@
-### San Francisco, CA
+#San Francisco, CA
 
-#Where to eat
+## Where to eat
 
-#What to see
+## What to see
