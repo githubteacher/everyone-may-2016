@@ -7,11 +7,7 @@
 ### Things to do
 -thing1
 -thing 2
-<<<<<<< HEAD
-Tower of London
-=======
 - See the Queen.
->>>>>>> refs/remotes/origin/master
 
 ### Places to party.
 -not telling.
