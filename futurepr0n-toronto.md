@@ -14,3 +14,5 @@
 - tim horton
 - air canada center
 - Rogers center
+- CN Tower
+- Ripleys Aquarium
