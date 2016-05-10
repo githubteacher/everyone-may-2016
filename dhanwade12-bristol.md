@@ -7,9 +7,8 @@ Bristol Zoo
 Clifton local restaurants 
 
 ###Places to eat
-Nicholas market
+Nicholas market - Lebanese, Caribbean, Indian, Meat Pie
 Gloucester Road
-
 
 ###Shopping
 Nicholas market
