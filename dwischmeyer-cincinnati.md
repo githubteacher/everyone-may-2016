@@ -1,7 +1,7 @@
 # Cincinnati, OH
 
 ### Places to Eat
-- Montgomer Inn
+- Montgomery Inn
 - Precinct
 
 ### Touristy things to do
