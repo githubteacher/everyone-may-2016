@@ -12,3 +12,7 @@
 - Watch some amaizing live music in some of the many Jazz and Blues bars
 - Visit the Arch
 - Go see a baseball game, if you like baseball
+
+### Secret spots for locals
+- Blues City Deli has amazing sandwiches and live music
+- Jazz at the Bistro
