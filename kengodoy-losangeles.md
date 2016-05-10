@@ -5,6 +5,7 @@
 - Licensiado
 - Hatam
 - Chili Chutney
+- Royal Rasoi
 
 ## Place to visit
 - The Griffith Observatory
