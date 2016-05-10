@@ -14,3 +14,4 @@
 - Museo de Cera
 - Plaza de Colón
 - Museo Thyssen
+- New place
