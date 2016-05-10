@@ -8,5 +8,6 @@
 - Disney World
 - Universal Studios
 - Discovery Cove for swimming with dolphins! *(note: the water is very cold where the dolphins live)*
+- Disney Springs
 
 ### Secret spots from locals
