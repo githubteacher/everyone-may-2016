@@ -6,7 +6,7 @@
 - Great Lakes Brewery
 - Townhall
 - Gateway
-
+- Wild Mango
 
 ### Things to do
 - Cleveland Zoo
