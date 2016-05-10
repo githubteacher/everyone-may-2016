@@ -13,6 +13,7 @@ Avoca
 
 Giants Causeway
 Big Fish
+Bushmills distillery
 
 
 ### Secret spots from locals
