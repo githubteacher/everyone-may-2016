@@ -31,7 +31,7 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
 
 ### Parks
  - Golden Gate Park
- - Park Presidio
+ - Park Presidio -- There also a Veterans Cemetery, and bakers beach is close by
  - Dolores
  - Lake Merced
  - The Botanic Garden
