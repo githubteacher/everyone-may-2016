@@ -14,3 +14,4 @@
 ### Secret spots from locals
 - Cape Canaveral
 - Kennedy Space Center
+- Go visit some springs!
