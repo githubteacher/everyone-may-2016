@@ -6,7 +6,10 @@
 
 ### Things To Do For Tourists
 - Everglades
-- Rock Castle
+- Rock Castle, Homestead
+- Bayside Mall, Downtown Miami
+- Perez Art Museum Miami (PAMM), Downtown Miami
+- Tom is Here Fruit Stand, Homestead
 
 ### Secret Spots From Locals
 - *Venetian Pool, Coral Gables*: Iconic, spring-water-filled pool built in 1923 boasting waterfalls, grottos & a tropical backdrop
