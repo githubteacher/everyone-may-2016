@@ -5,7 +5,6 @@
 
 ### Touristy things to do
 - Deoksugung
-- 
 
 ### Secret spots from locals
 
