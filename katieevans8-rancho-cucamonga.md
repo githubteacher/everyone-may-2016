@@ -8,3 +8,4 @@
 
 ### Secret spots for locals
 - No Clue Brewery
+- Etiwanda Falls Hiking Trail *(note: no dogs allowed)*
