@@ -2,6 +2,7 @@
 
 ### Places to Eat
 - Asian Bistro
+- Kittiwat Thai
 
 
 ### Touristy
