@@ -8,3 +8,5 @@
 - Science Museum and IMAX theatre
 - C&I
 - Flagler Village Art Walk
+- Books & Books Author Nights
+- Parker Playhouse
