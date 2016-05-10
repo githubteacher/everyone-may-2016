@@ -13,3 +13,5 @@
 - 
 ### For Kids
 - Baltimore Science Museum
+### Secret spots from local
+- Spy Museum
