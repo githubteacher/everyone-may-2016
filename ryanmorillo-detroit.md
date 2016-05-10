@@ -5,3 +5,4 @@
 - The Red Apple
 ### Places worth seeing
 - NOIR Leather in Royal Oak
+- Greefield Village in Dearborn
