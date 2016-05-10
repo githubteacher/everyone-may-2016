@@ -14,3 +14,6 @@
 - Big Bear Lake
 - Palm Springs
 
+## Some secret spots from locals
+- Crystal Cove
+- Holy Jim Trail
