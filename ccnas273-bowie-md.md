@@ -4,6 +4,7 @@
 - Pussers
 - Mike's Crab House
 - Carrabas
+- The Green Turtle
 
 ### Touristy to Go
 - Annapolis, MD - the dock
