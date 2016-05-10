@@ -1,10 +1,10 @@
 # Rancho Cucamonga, CA
 
 ### Places to Eat
-Yatai Sushi
+- Yatai Sushi
 
 ### Tourist Destinations
-Victoria Gardens
+- Victoria Gardens
 
 ### Secret spots for locals
-No Clue Brewery
+- No Clue Brewery
