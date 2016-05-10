@@ -5,7 +5,7 @@
 - Snap Kitchen (Local Organic)
 
 ### Secret spots for locals to do
-
+-hippie hollow
 
 ### Touristy things to do
 -SWSX
