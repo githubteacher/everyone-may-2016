@@ -10,3 +10,5 @@
 - SM City, Clark
 
 ### Secret Spots From Locals
+
+*Note: Lot's of good places to visit here in PH!*
