@@ -10,3 +10,6 @@
 
 ### Secret Spots
 - Airport
+- 
+### For Kids
+- Baltimore Science Museum
