@@ -1,7 +1,7 @@
 #London, GB.
 
 ### Places to eat.
--FiveGuys... mmmmm
+-FiveGuys... time to eat!
 -McDonalds
 
 ### Things to do
