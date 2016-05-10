@@ -6,5 +6,7 @@
 
 ### Touristy things to do
 - Visit some monuments
+- Walk through Ramblas
 
 ### Secret spots from locals
+- Bunker del Carmel
