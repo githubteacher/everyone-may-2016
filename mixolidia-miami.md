@@ -4,7 +4,7 @@
 - Versailles
 - Dogma Grill
 
-### Things to Do for Tourists
+### Things To Do For Tourists
 - Everglades
 - Rock Castle
 
