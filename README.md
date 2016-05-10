@@ -1,5 +1,7 @@
 # Welcome to GitHub for Everyone!
 
+[![Join the chat at https://gitter.im/githubteacher/everyone-may-2016](https://badges.gitter.im/githubteacher/everyone-may-2016.svg)](https://gitter.im/githubteacher/everyone-may-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Facilitators
 - On the Mic:
   - Hector, :octocat: [@halfaro1](http://github.com/halfaro1)
