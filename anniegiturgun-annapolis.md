@@ -9,3 +9,5 @@
 - Visit the Maryland State House
 
 ### Secret spots from locals
+- Tastings Gourmet Market
+- Quiet Waters Park
