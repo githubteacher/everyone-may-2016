@@ -7,4 +7,4 @@
 - Six Flags
 
 ### Secret spots from locals
-- The Hangar
+- The Hangar *(on Broadway)*
