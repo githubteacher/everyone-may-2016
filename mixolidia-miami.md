@@ -5,7 +5,7 @@
 - Dogma Grill
 
 ### Things To Do For Tourists
-- Everglades
+- Everglades National Park
 - Rock Castle, Homestead
 - Bayside Mall, Downtown Miami
 - Perez Art Museum Miami (PAMM), Downtown Miami
