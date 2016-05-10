@@ -15,6 +15,14 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
 ### Secret Spots
  - I'll keep those as secrets ;)
 
+### Museums
+ - De Young
+ - Legion of Honor
+ - Yerba Buena
+ - SOMA
+ - CAL Academy
+ - Asian Museum
+ - Walt Disney Museum
 ### Parks
  - Golden Gate Park
  - Park Presidio
