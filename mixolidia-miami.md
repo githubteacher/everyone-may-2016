@@ -5,7 +5,7 @@
 - Dogma Grill
 
 ### Things to Do for Tourists
-- Everglades
+- Everglades National Park
 - Rock Castle
 
 ### Secret Spots From Locals
