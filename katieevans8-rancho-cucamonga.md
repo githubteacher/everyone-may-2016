@@ -2,6 +2,7 @@
 
 ### Places to Eat
 - Yatai Sushi
+- Thai T
 
 ### Tourist Destinations
 - Victoria Gardens
