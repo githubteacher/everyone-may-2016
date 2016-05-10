@@ -8,5 +8,6 @@
 ### Touristy things to do
 - Steel Stacks
 - Bethlehem Star
+- Bookstore
 
 ### Secret spots from locals
