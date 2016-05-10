@@ -19,4 +19,6 @@ local change number 1 made with Atom.
 make a commit of just a few lines.
 include this one
 and this one
+but not this line yet.
+or this line. this line is bad.
 but we can include this one now.
