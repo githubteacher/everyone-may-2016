@@ -10,6 +10,7 @@
 - Santa Monica Pier
 - The Getty Center
 - Griffith Observatory
+- Hollywood Walk of Fame
 
 ### Secret spots from locals
 - The Grove & Farmers Market
