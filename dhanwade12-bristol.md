@@ -4,6 +4,7 @@
 Ballon Fiesta in Aug
 Suspension bridge
 Bristol Zoo
+Clifton local restaurants 
 
 ###Places to eat
 Nicholas market
