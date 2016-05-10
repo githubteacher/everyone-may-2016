@@ -8,3 +8,4 @@
 
 ### Secret spots from locals
 - The Hangar *(on Broadway)*
+- Pearl Brewery
