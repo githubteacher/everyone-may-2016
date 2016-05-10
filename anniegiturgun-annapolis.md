@@ -2,7 +2,7 @@
 
 ### Places to Eat
 - Ram's Head
-
+- A fruit stand
 
 ### Touristy things to do
 - Visit the Naval Academy
