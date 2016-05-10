@@ -6,6 +6,7 @@
 
 ### Tourist Destinations
 - Victoria Gardens
+- Mt. Baldy
 
 ### Secret spots for locals
 - No Clue Brewery
