@@ -11,5 +11,7 @@
 - Bayanihan Park
 
 ### Secret Spots From Locals
+- Little Baguio, Clark
+- Woodland Park Resort
 
 *Note: Lot's of good places to visit here in PH!*
