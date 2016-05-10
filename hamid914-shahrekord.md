@@ -10,3 +10,4 @@
 
 ### Secret spots from locals
 - Lalehaye Vajhgun weald
+- Cheshmeh Dimeh
