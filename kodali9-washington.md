@@ -1,7 +1,7 @@
 # Wasington DC
 
-### 1
+### Places to Eat
 
-### 2
+### Touristy
 
-### 3
+### Secret Spots
