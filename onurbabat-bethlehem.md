@@ -11,3 +11,5 @@
 - Bookstore
 
 ### Secret spots from locals
+- Taco Place
+- Mollys
