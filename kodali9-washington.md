@@ -1,13 +1,12 @@
 # Wasington DC
 
 ### Places to Eat
-1 - Asian Bistro
-2
+- Asian Bistro
+
 
 ### Touristy
-1 - Washington Memorial
-2
+- Washington Memorial
+
 
 ### Secret Spots
-1 - Airport
-2
+- Airport
