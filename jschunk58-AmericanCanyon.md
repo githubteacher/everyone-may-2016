@@ -9,5 +9,9 @@
 ## Things to do
 
 ### Touristy Things to do
+- Paint Ball Jungle
+- Golf
 
 ### Things only the locals do
+- Bocci Ball
+- Hunting
