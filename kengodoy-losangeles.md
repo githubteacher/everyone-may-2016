@@ -8,6 +8,7 @@
 - Royal Rasoi
 
 ## Place to visit
+- Dodger Stadium
 - The Griffith Observatory
 - The Getty Villa
 - Venice Beach
@@ -17,3 +18,4 @@
 ## Some secret spots from locals
 - Crystal Cove
 - Holy Jim Trail
+- Turnbull Canyon
