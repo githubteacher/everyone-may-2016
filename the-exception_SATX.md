@@ -22,7 +22,7 @@ The primary source of drinking water for the city is the Edwards Aquifer. Impoun
 
 ##Demographics
 
-[hide]Racial composition	2010[38]	1990[21]	1970[21]	1950[21]
+Racial composition	2010	1990	1970	1950
 White	72.6%	72.2%	91.4%	92.8%
  —Non-Hispanic whites	26.6%	36.2%	47.7%	n/a
 Black or African American	6.9%	7.0%	7.6%	7.0%
