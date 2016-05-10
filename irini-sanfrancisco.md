@@ -11,6 +11,8 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
 ### Touristy Things
  - Pier 39
  - Powerll Area
+ - Sutro Bath Ruins
+ - Golden Gate Bridge
 
 ### Secret Spots
  - I'll keep those as secrets ;)
