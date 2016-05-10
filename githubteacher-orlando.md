@@ -3,6 +3,7 @@
 ### Places to Eat
 - Rocco's Tacos
 - Pharmacy
+- Tako Cheena
 
 ### Touristy things to do
 - Disney World
