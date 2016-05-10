@@ -6,4 +6,3 @@
 ### Touristy places to do
 
 ### Other things to do
-
