@@ -1,6 +1,6 @@
 #San Antonio (Spurs Nation)
 
-[SanAntonio.gov]www.sanantonio.gov
+[SanAntonio.gov](www.sanantonio.gov)
 
 ##History
 At the time of European encounter, Payaya Indians lived near the San Antonio River Valley in the San Pedro Springs area, calling the vicinity Yanaguana, meaning "refreshing waters". In 1691, a group of Spanish Catholic explorers and missionaries came upon the river and Payaya settlement on June 13, the feast day of St. Anthony of Padua. They named the place and river "San Antonio" in his honor.[10]
@@ -16,5 +16,16 @@ Under the leadership of Juan Leal Goraz, the group marched overland from Veracru
 
 ##Geography
 
+San Antonio is located near 29.5°N 98.5°W. It is about 75 miles to the southwest of its neighboring city, Austin, the state capital. The city is also about 190 miles west of Houston and about 250 miles south of the Dallas–Fort Worth area. According to the U.S. Census Bureau, in 2000 the city had a total area of 412.07 square miles (1,067.3 km2)—407.56 square miles (1,055.6 km2) (98.9%) of land and 4.51 square miles (11.7 km2) (1.1%) of water. The city sits on the Balcones Escarpment. The altitude of San Antonio is 772 feet (235 m) above sea level.
+
+The primary source of drinking water for the city is the Edwards Aquifer. Impounded in 1962 and 1969, respectively, Victor Braunig Lake and Calaveras Lake were among the first reservoirs in the country built to use recycled treated wastewater for power plant cooling, reducing the amount of groundwater needed for electrical generation.
+
 ##Demographics
+
+[hide]Racial composition	2010[38]	1990[21]	1970[21]	1950[21]
+White	72.6%	72.2%	91.4%	92.8%
+ —Non-Hispanic whites	26.6%	36.2%	47.7%	n/a
+Black or African American	6.9%	7.0%	7.6%	7.0%
+Hispanic or Latino (of any race)	63.2%	55.6%	44.9%	n/a
+Asian	2.4%	1.1%	0.3%	0.2%
 
