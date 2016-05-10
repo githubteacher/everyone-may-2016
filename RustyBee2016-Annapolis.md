@@ -4,6 +4,7 @@
  - Sailing
  - Cycling
  - Tennis
+  - swimming
 ### Places to party
 
   - Main St.
