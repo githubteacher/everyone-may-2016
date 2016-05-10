@@ -14,7 +14,14 @@ Avoca
 Giants Causeway
 Big Fish
 
+
 ### Secret spots from locals
 
 Ormeau Park
 Cavehill
+
+
+### Places to Shop
+
+Victoria Square
+Castle Court
