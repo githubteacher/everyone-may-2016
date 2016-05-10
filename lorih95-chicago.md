@@ -1,8 +1,8 @@
 # Chicago
 
 ### Places to Eat 
-tacos
-pizza
+-tacos
+-pizza
 
 ### Touristy
 
