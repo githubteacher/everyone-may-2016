@@ -1,7 +1,7 @@
 # Boston, MA
 
 ### Places to Eat
-- Bostonia Public House
+-Bostonia Public House
 ### Touristy thisngs to do
-- Fenway Park
+-Fenway Park
 ### Secret spots from locals 
