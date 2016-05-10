@@ -31,7 +31,7 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
 
 ### Parks
  - Golden Gate Park
- - Park Presidio
+ - Park Presidio -- Isn't it the Place where the have the bunkers/forts?
  - Dolores
  - Lake Merced
  - The Botanic Garden
