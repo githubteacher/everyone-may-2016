@@ -12,7 +12,9 @@
 - Cleveland Zoo
 - Rock and Roll Hall of Fame
 - West Side Market 
+- Cleveland Aquarium 
 
 
 ## Edit in new branch
 Ignore this
+
