@@ -11,3 +11,6 @@
 
 ### Other things to do
 - Hike on the hike and bike trail
+- Ride bikes
+- Sail
+- Run
