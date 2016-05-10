@@ -1,5 +1,8 @@
 # Annapolis, MD
-### Things to do
 
+### Things to do
+ - Sailing
+ - Cycling
+ 
 ### Places to party
 
