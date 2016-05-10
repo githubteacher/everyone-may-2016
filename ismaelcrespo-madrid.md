@@ -13,5 +13,5 @@
 ### Very Secret spots from locals
 - Museo de Cera
 - Plaza de Colón
-- Museo Thyssen
+- Museo Thyssen Barnezomisa
 - New placeju
