@@ -24,7 +24,7 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
  - De Young
  - Legion of Honor
  - Yerba Buena
- - SOMA
+ - SOMA {Reopening after a huge remodeling, and new building}
  - CAL Academy
  - Asian Museum
  - Walt Disney Museum
