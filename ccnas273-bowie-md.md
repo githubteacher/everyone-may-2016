@@ -3,6 +3,7 @@
 ### Places to Eat
 - Pussers
 - Mike's Crab House
+- Carrabas
 
 ### Touristy to Go
 - Annapolis, MD - the dock
