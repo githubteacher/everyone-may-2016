@@ -10,3 +10,5 @@
 
 ### Secret spots from locals
 - Rent a boat at Vasona Lake
+- Japan Town
+- San Jose Giants 
