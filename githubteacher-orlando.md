@@ -10,4 +10,6 @@
 - Discovery Cove for swimming with dolphins! *(note: the water is very cold where the dolphins live)*
 - The Orlando Eye
 
-### Secret spots from locals
+### Secret spots from locals### Secret spots from locals
+- Cape Canaveral
+- Kennedy Space Center
