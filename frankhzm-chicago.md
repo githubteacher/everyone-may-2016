@@ -1,7 +1,7 @@
 # Chicago, IL
 
 ### Places to Eat
-- Elly's Diner
+- Elly's Restaurant on Clark Street
 
 ### Touristy Things to Do
 - Sear's Tower (Don't call it Willis!)
