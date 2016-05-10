@@ -13,3 +13,4 @@ Gloucester Road
 ###Shopping
 Nicholas market
 Cribbs Causeway
+Clarks Village (around 20 miles far)
