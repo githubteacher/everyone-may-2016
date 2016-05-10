@@ -12,3 +12,5 @@
 - The Getty Villa
 - Venice Beach
 - Big Bear Lake
+- Palm Springs
+
