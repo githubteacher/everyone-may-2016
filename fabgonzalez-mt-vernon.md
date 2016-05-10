@@ -3,6 +3,7 @@
 ### Places to eat
 - Fiesta Mexicana
 - Southside West
+- Panera
 
 ### Things to do
 - Camping
