@@ -32,6 +32,7 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
 ### Parks
  - Golden Gate Park
  - Park Presidio -- Isn't it the Place where the have the bunkers/forts?
+ - Park Presidio -- There's a trails to Bakers Beach
  - Dolores
  - Lake Merced
  - The Botanic Garden
