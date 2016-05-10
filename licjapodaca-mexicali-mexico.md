@@ -10,3 +10,4 @@
 
 ### Secret spots from locals
 - Algodones Dunas
+- Visit el Centinela *(Additionaltext)*
