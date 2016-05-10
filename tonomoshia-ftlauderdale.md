@@ -9,3 +9,4 @@
 
 ### Secret Spots for Locals
 - C&I
+- Lulu's Bait & Tackle
