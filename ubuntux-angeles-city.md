@@ -8,6 +8,7 @@
 ### Touristy Things To Do
 - Air Force City
 - SM City, Clark
+- Bayanihan Park
 
 ### Secret Spots From Locals
 
