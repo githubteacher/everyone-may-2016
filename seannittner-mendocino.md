@@ -11,4 +11,5 @@
 
 ### Secret spots from locals
 - 10 mile beach. *amazing sand dunes*
-- Coves inside the headland that you can kayak to or walk out to during low tide.
+- Coves inside the headland that you can kayak to or walk out to during low tide.- Coves inside the headland that you can kayak to or walk out to during low tide.
+- more stuff.. no imagination here
