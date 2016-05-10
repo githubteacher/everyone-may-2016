@@ -1,4 +1,4 @@
-# San Francisco, CA
+﻿# San Francisco, CA
 ### What's up with the city by the bay?
 Generally a cool place {in the climatic sense of this word}, if you like it warm, stop by around the Indian Summer, that's around September/October. Other wise you can enjoy an year round weather that won't fluctuate much, always between 45f and 65f.
 
@@ -7,10 +7,13 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
  - Mexican Restaurants around Mission
  - FENG in Downtown
  - Little Italy for Pasta
+ - A load of good Indian Restaurants
+ - The great Sushi Places at Japan Town
 
 ### Touristy Things
  - Pier 39
  - Powerll Area
+ - Presidio
  - Sutro Bath Ruins
  - Golden Gate Bridge
 
@@ -25,6 +28,7 @@ Generally a cool place {in the climatic sense of this word}, if you like it warm
  - CAL Academy
  - Asian Museum
  - Walt Disney Museum
+
 ### Parks
  - Golden Gate Park
  - Park Presidio
