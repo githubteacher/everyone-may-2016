@@ -5,3 +5,5 @@
 ### Make friends
 
 ### Find a place 
+
+adding additional sentences
