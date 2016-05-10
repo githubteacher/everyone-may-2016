@@ -5,4 +5,5 @@
 -Mikes Place
 ### Touristy things to do
 -Downtown
+Campus visit
 ### Secret Spots
