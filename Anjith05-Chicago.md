@@ -10,4 +10,4 @@
 
 ### Things to do in winter
 - Ice Skating
-- Get to wear your favorite winter jackets
+- Get to wear your favorite winter jackets.
