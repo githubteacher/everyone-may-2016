@@ -2,15 +2,20 @@
 
 ##Places to See
 
-Universal Studios (http://www.universalstudioshollywood.com/)
+Universal Studios 
+http://www.universalstudioshollywood.com/
 
-Disneyland (https://disneyland.disney.go.com/)
+Disneyland 
+https://disneyland.disney.go.com/
 
-The Getty Museum (https://www.getty.edu/)
+The Getty Museum 
+https://www.getty.edu//Users/maishacannon/everyone-may-2016/digitalemcee-losangeles.md
 
-Griffith Park (http://www.laparks.org/dos/parks/griffithpk/)
+Griffith Park
+http://www.laparks.org/dos/parks/griffithpk/
 
-LaBrea Tar Pitts (http://www.tarpits.org/la-brea-tar-pits)
+LaBrea Tar Pitts
+http://www.tarpits.org/la-brea-tar-pits
 
 ##Places to Eat
 
@@ -28,3 +33,7 @@ http://www.beverlycenter.com/
 
 Glendale Galleria
 https://www.glendalegalleria.com/en.html
+
+##Getting Around
+It’s tough! Public transportation isn’t the greatest, so make a new buddy with Lyft or Uber. Better yet, rent a car!
+
