@@ -3,6 +3,5 @@
 ### Things to do
  - Sailing
  - Cycling
- 
 ### Places to party
 
