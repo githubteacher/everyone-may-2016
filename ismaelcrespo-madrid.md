@@ -11,3 +11,7 @@
 - Santiago Bernabeu Stadium. ¡This can cause conflicts with Barcelona supporters!
 
 ### Secret spots from locals
+### Very Secret spots from locals
+- Museo de Cera
+- Plaza de Colón
+- Museo Thyssen
