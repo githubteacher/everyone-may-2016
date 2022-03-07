@@ -13,5 +13,9 @@
 ### Very Secret spots from locals
 - Museo de Cera
 - Plaza de Colón
-- Museo Thyssen
+<<<<<<< HEAD
+- Museo Thyssen Barnezomisa
+=======
+- Museo Thyssen CAMBIO ONLINE
+>>>>>>> origin/ismael-conflict
 - New placeju
